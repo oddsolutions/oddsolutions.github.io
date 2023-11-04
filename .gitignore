@@ -1,3 +1,4 @@
+_posts/drafts
 _site
 .DS_Store
 .jekyll
@@ -8,3 +9,4 @@ Gemfile
 Gemfile.lock
 node_modules
 package.json
+
