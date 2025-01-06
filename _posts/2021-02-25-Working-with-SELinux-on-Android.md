@@ -6,7 +6,7 @@ author: Aayush Gupta (theimpulson) & Nolen Johnson (npjohnson)
 
 ## Understanding the basics of SELinux
 
-![hero](https://lineageos.org/images/engineering/hero_selinux.jpg)
+![hero](https://lineageos.org/images/engineering/hero_selinux.webp)
 
 ## Glossary
 
