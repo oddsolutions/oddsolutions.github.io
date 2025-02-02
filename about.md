@@ -6,7 +6,7 @@ permalink: /about/
 
 ## `whoami`
 
-My name is Nolen Johnson, I'm a OT/Hardware Security Consultant at the cyber-security firm [DirectDefense, Inc](https://www.directdefense.com/). I work in the [Connected Systems](https://www.directdefense.com/services/connected-systems/) division, which focuses on hardware security, OT/SCADA/ICS enviorment security, and firmware security.
+My name is Nolen Johnson, I'm a OT/Hardware Security Consultant at the cyber-security firm [DirectDefense, Inc](https://www.directdefense.com/). I work in the [Connected Systems](https://www.directdefense.com/services/connected-systems/) division, which focuses on hardware security, OT/SCADA/ICS environment security, and firmware security.
 
 I'm originally from Burnsville, MN, but currently live in Orlando, FL.
 
