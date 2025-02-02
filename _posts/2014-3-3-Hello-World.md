@@ -9,7 +9,7 @@ My name is Nolen Johnson, I'm a OT/Hardware Security Consultant at the cyber-sec
 
 I developed methodologies, processes, offerings, marketing materials, sales battlecards, and many other components to launch the division, and currently lead the Hardware Security practice.
 
-Previously, I spent 5 wonderful years at [DirectDefense, Inc](https://www.directdefense.com/) helping get the [Connected Systems](https://www.directdefense.com/services/connected-systems/) division off the ground. Connected Systems focused on hardware security, OT/SCADA/ICS enviorment security, and firmware security.
+Previously, I spent 5 wonderful years at [DirectDefense, Inc](https://www.directdefense.com/) helping get the [Connected Systems](https://www.directdefense.com/services/connected-systems/) division off the ground. Connected Systems focused on hardware security, OT/SCADA/ICS environment security, and firmware security.
 
 I'm originally from Burnsville, MN, but currently live in Orlando, FL.
 
