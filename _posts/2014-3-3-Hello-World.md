@@ -5,9 +5,9 @@ title: Hello World
 
 ## `whoami`
 
-My name is Nolen Johnson, I'm a OT/Hardware Security Consultant at the cyber-security firm [AON Cyber Solutions](https://www.aon.com/en/capabilities/cyber-resilience).
+My name is Nolen Johnson, I'm the Director of Hardware Security at the cyber-security firm [LevelBlue](https://levelblue.com/consulting-and-professional-services)(formerly Aon Cyber Solutions).
 
-I developed methodologies, processes, offerings, marketing materials, sales battlecards, and many other components to launch the division, and currently lead the Hardware Security practice.
+I developed methodologies, processes, offerings, marketing materials, sales battlecards, and many other components to launch the division, and currently lead the Hardware and OT Security practices.
 
 Previously, I spent 5 wonderful years at [DirectDefense, Inc](https://www.directdefense.com/) helping get the [Connected Systems](https://www.directdefense.com/services/connected-systems/) division off the ground. Connected Systems focused on hardware security, OT/SCADA/ICS enviorment security, and firmware security.
 
