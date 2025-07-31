@@ -5,7 +5,7 @@ title: Hello World
 
 ## `whoami`
 
-My name is Nolen Johnson, I'm a OT/Hardware Security Consultant at the cyber-security firm [AON Cyber Solutions](https://www.aon.com/en/capabilities/cyber-resilience).
+My name is Nolen Johnson, I'm a OT/Hardware Security Consultant at the cyber-security firm [Stroz Friedberg, a LevelBlue company](https://levelblue.com/strozfriedberg) (formerly Aon Cyber Solutions).
 
 I developed methodologies, processes, offerings, marketing materials, sales battlecards, and many other components to launch the division, and currently lead the Hardware Security practice.
 
