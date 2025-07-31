@@ -5,7 +5,7 @@ title: Hello World
 
 ## `whoami`
 
-My name is Nolen Johnson, I'm a OT/Hardware Security Consultant at the cyber-security firm [AON Cyber Solutions](https://www.aon.com/en/capabilities/cyber-resilience).
+My name is Nolen Johnson, I'm a OT/Hardware Security Consultant at the cyber-security firm [LevelBlue](https://levelblue.com/consulting-and-professional-services), formerly Aon Cyber Solutions, formerly Stroz Friedberg.
 
 I developed methodologies, processes, offerings, marketing materials, sales battlecards, and many other components to launch the division, and currently lead the Hardware Security practice.
 
@@ -25,5 +25,5 @@ I will be posting 4 main types of content here:
 ### Contact me
 
 Personal Email: [johnsonnolen@gmail.com](mailto:johnsonnolen@gmail.com)<br/>
-Work Email: [nolen.johnson@aon.com](mailto:nolen.johnson@aon.com)<br/>LinkedIn: [nolenjohnson](https://www.linkedin.com/in/nolenjohnson/)<br/>Telegram: [@npjohnson](https://telegram.me/npjohnson)<br/>
+Work Email: [nolen.johnson@levelblue.com](mailto:nolen.johnson@levelblue.com)<br/>LinkedIn: [nolenjohnson](https://www.linkedin.com/in/nolenjohnson/)<br/>Telegram: [@npjohnson](https://telegram.me/npjohnson)<br/>
 Twitter: [@nolenjohnson](https://twitter.com/nolenjohnson)<br/>
