@@ -13,6 +13,11 @@ Frederic also did a great amount of work to temporarily boot a custom OS from US
 
 Security researchers Jan Altensen (Stricted) and Nolen Johnson (npjohnson) took the vulnerability and provided tools and customized a u-boot image to take advantage of the provided secure-execution environment to fully bootloader unlock the device.
 
+# Succession
+This exploit toolchain uses a vulnerability that has been patched since February of 2022.
+
+If your device is on a security patch newer than that but older than or equal to October 2025, you're looking for [sabrina-unlock-v2!](https://oddsolutions.github.io/Chromecast-with-Google-TV-4K-Secure-Boot-Bypass-v2/).
+
 # Standard Disclaimer
 
 You are solely responsible for any potential damage(s) caused to your device by this exploit.
